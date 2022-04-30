@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Rasim",
+      "surname": "Aliyev",
+      "age": 44,
+      "id": "K7bl0jw"
+    },
+    {
+      "name": "Azər",
+      "surname": "Aliyev",
+      "age": 23,
+      "id": "hEEbQiX"
+    },
+    {
+      "name": "Ilaha",
+      "surname": "Aliyeva",
+      "age": 32,
+      "id": "0RL53Z5"
+    },
+    {
+      "name": "Farid",
+      "surname": "Aliyev",
+      "age": 21,
+      "id": "Dx_05Yk"
+    }
+  ]
+}
